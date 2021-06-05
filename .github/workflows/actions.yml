@@ -2,7 +2,7 @@ name: Github Actions Debug
 
 on:
     push:
-        branches: '**'
+        branches: master
 
 jobs:
     build:
